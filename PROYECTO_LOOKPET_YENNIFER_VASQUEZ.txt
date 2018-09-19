@@ -1,0 +1,31 @@
+Proyecto LookPet
+Yennifer Vásquez
+
+Problema:
+
+Dificultad en la búsqueda de información para adopción y reporte de mascotas pérdidas de las principales ciudades de Colombia, así como también información para la localización de lugares que presten servicios relacionados con las mismas, eventos, tips y salud animal.
+
+Pregunta Problema
+
+¿Cómo una plataforma digital puede contribuir en la búsqueda rápida y eficaz de información sobre mascotas, así como también fortalecer el reporte de animales perdidos y promover su adopción? 
+
+Objetivo General
+
+Integrar información relacionada con mascotas a través de una herramienta digital que fortalezca el reporte de pérdidas, adopción, productos, servicios, lugares y eventos, en las principales ciudades de Colombia.
+
+
+Objetivos específicos
+
+• Beneficiar la búsqueda eficaz y rápida de lugares, tales como guarderías, veterinarias, centros de servicios y venta de productos relacionados con mascotas.
+
+• Reducir la sobrepoblación animal, con la promoción de la adopción a mascotas y esterilización de las mismas.  
+
+• Brindar información de confianza sobre el correcto cuidado de las mascotas. 
+
+Solución Propuesta
+
+Aplicación móvil. lookpet
+
+En esta nueva generación, existen muchos empresarios y emprendedores digitales, enfocados en desarrollar sus proyectos en plataformas web y móviles, software y contenidos digitales, al igual que son miles de los usuarios que prefieren la utilización de estas plataformas para encontrar cualquier contenido deseado. 
+
+Dado a la existencia es este auge y la preferencia con el contenido digital se propone una herramienta, que reúna todos los elementos para la búsqueda rápida y eficaz de todo lo relacionado con los animales a nivel nacional, la misma permitirá conocer a los animales que buscan un hogar, aquellos que han sido abandonados, o aquellos que son encontrados por otras personas, con opción de llevar a cabo una adopción confiable, además de ofrecer información centralizada de todo aquello relacionado con animales, tal como, entidades que ofrecen servicios y/o productos, tales como veterinarias, guarderías, salud animal, tips, etc.  
